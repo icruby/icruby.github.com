@@ -9,6 +9,7 @@
 # THANKS
 
     Cramer Dev (and @nlsmith) for the icruby.org domain
+    scottfidd on Flickr for the CC BY-NC-SA 2.0 Iowa City Panorama photo http://www.flickr.com/photos/scottfidd/7084756573/
 
 # TECHNOLOGY COLOPHON
 
