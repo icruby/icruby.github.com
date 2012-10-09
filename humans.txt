@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paul Hinze -- Original Author -- @phinze
+    Ben Oakes -- Current Maintainer -- @benjaminoakes
 
 # THANKS
 
-    <name>
+    Cramer Dev (and @nlsmith) for the icruby.org domain
 
 # TECHNOLOGY COLOPHON
 
