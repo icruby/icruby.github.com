@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .hero-unit h1 {
-  font-family: monospace;
+  font-family: 'Ubuntu Mono', monospace;
   margin-bottom: 0.3em;
 }
 
